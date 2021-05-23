@@ -1,6 +1,8 @@
 # github-test
 
-It is a repository name
+It is a repository name.
+
+I am writing this text from main branch
 
 ##New Project
 
