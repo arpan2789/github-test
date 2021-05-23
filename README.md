@@ -11,6 +11,7 @@ Project is to learn diff command
 Trying to learn Git
 
 ##Git commands
+This is my try in main branch
 
 ##Project
 This is new project
