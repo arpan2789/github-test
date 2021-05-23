@@ -4,6 +4,8 @@ It is a repository name.
 
 I am writing this text from main branch
 
+I am writing this text from rebaseb branch
+
 ##New Project
 
 Project is to learn diff command
