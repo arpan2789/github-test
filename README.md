@@ -13,3 +13,4 @@ Trying to learn Git
 ##Git commands
 
 ##Project
+This is new project
