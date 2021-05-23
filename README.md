@@ -10,6 +10,8 @@ I am writing this text from rebaseb branch
 
 Project is to learn diff command
 
+Project is new and we are trying to learn
+
 ##Git learning
 
 Trying to learn Git
