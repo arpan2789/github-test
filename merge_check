@@ -15,4 +15,8 @@ We are doing some new changes to this sixth try
 Changes to the main
 New changes again to the main
 What the hell are these changes
+<<<<<<< HEAD
 Changes in the git hub location
+=======
+Changes made to test something
+>>>>>>> ea2d7ff (changes made)
